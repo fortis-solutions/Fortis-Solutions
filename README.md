@@ -10,7 +10,7 @@ If you’re a recruiter, hiring manager, or just curious — feel free to click 
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**  
+- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)](https://github.com/fortis-solutions/Vulnerability-Management-Program/tree/main)**  
   End-to-end vuln management workflow: scanning → triage → remediation → verification → reporting.
 
 - **[Programmatic Vulnerability Remediations (PowerShell + Bash)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**  
