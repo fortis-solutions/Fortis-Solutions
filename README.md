@@ -18,12 +18,6 @@ If you’re a recruiter, hiring manager, or just curious — feel free to click 
 
 ---
 
-## 🚨 Threat Hunting & Security Operations
-
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**  
-  A structured threat hunting walkthrough: identifying indicators, validating activity, and documenting findings.
-
----
 
 <hr/>
 
