@@ -13,7 +13,7 @@ If you’re a recruiter, hiring manager, or just curious — feel free to click 
 - **[Vulnerability Management Program Implementation](https://github.com/fortis-solutions/Vulnerability-Management-Program/tree/main)**  
   End-to-end vulnerability management workflow: asset discovery → scanning → triage → remediation → verification → reporting.
 
-- **[Programmatic Vulnerability Remediations (PowerShell + Bash)](https://github.com/fortis-solutions/utensils/tree/main)**  
+- **[Programmatic Vulnerability Remediations (PowerShell + Bash)]([https://github.com/fortis-solutions/utensils/tree/main](https://github.com/fortis-solutions/utensils))**  
   Automated fixes and repeatable remediation scripts built for lab environments using PowerShell and Bash.
 
 ---
